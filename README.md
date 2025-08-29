@@ -4,11 +4,13 @@
 This project automates the testing of various functionalities on the Amazon India website using Python and Selenium WebDriver. The main purpose is to validate core e-commerce actions like login, search, applying filters, cart operations, and order tracking.
 
 **Tools and Technologies Used:**
+
 Python – Programming language
 Selenium WebDriver – For browser automation
 ChromeDriver – To control Google Chrome
 By module – Locating elements by ID, XPath, etc.
 Time module – For pauses in execution
+---------------------------------------------
 **Functionalities Covered:**
 **Login Function:**
 Automates login using valid credentials.
